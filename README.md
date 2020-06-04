@@ -1,4 +1,4 @@
-# Traffic Sign Classifier
+# Traffic Sign Classifier using Deep Learning
 
 The goal is to build a deep learning model that correctly classifies a set of images of traffic signs.
 
